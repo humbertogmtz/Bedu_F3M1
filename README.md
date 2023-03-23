@@ -13,7 +13,7 @@ Agradecimientos y reconocimiento al equipo BEDU, por esta oportunidad que nos ha
 
 ## :bookmark_tabs: Enlaces a Google Colab
  
- - [`Defunciones por diabetes`](https://colab.research.google.com/drive/1xrSTNQmdIkKlFD1bcdJMgOt5CMAe5KdL)
+ - [`Defunciones por diabetes`](https://colab.research.google.com/drive/19gOQaS3ySXNvVGtgNAcLLnzEcpbt43MP?usp=sharing)
 
 
 ## :bookmark_tabs: Enlaces a Recursos
