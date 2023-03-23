@@ -18,5 +18,5 @@ Agradecimientos y reconocimiento al equipo BEDU, por esta oportunidad que nos ha
 
 ## :bookmark_tabs: Enlaces a Recursos
  
- - [`Presentación`](https://drive.google.com/file/d/1sSoNEYN4P8K9HVJRrFkITvIIFmNQdSyJ/view?usp=sharing)
+ - [`Presentación`](https://drive.google.com/drive/folders/1Q75RosPfTe1Q21BbDTfc7c1gtlnnzfNK?usp=share_link)
  - [`Datasets`](https://drive.google.com/drive/folders/1Ondc6YXbeNKCHMQxlIk-Utru9g_r1O4x?usp=share_link)
